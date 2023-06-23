@@ -20,8 +20,8 @@ const groups: Group[] = [
         backgroundColor: '#FCEFEF',
         items: [
             {
-                label: '挨拶',
-                duration: 2
+                label: '挨拶・自己紹介',
+                duration: 3
             },
             {
                 label: '授業概要説明',
@@ -29,11 +29,11 @@ const groups: Group[] = [
             },
             {
                 label: '授業目的説明',
-                duration: 5
+                duration: 3
             },
             {
                 label: 'ワークシートの説明',
-                duration: 3
+                duration: 4
             },
             {
                 label: 'アイスブレイク',
@@ -51,12 +51,12 @@ const groups: Group[] = [
         backgroundColor: '#FEF8E7',
         items: [
             {
-                label: '知る活動について',
-                duration: 1
+                label: '知る活動について・ジグソーリサーチ説明',
+                duration: 2
             },
             {
                 label: 'ジグソーリサーチ',
-                duration: 13
+                duration: 12
             },
             {
                 label: 'ジグソーリサーチの共有',
@@ -64,11 +64,11 @@ const groups: Group[] = [
             },
             {
                 label: 'Kahootの導入',
-                duration: 4
+                duration: 2
             },
             {
                 label: 'Kahoot',
-                duration: 7
+                duration: 6
             },
             {
                 label: 'チーム順位記入',
@@ -93,27 +93,31 @@ const groups: Group[] = [
         backgroundColor: '#F4FFEE',
         items: [
             {
-                label: '創る活動についての説明',
+                label: '創る活動についての説明・ストーリー',
                 duration: 2
             },
             {
                 label: '学校名決め',
-                duration: 3
+                duration: 2
+            },
+            {
+                label: 'バイキング説明',
+                duration: 1
             },
             {
                 label: '設備バイキング',
-                duration: 7
+                duration: 8
             },
             {
                 label: '制度バイキング',
-                duration: 7
+                duration: 8
             },
             {
                 label: '単元バイキング',
-                duration: 7
+                duration: 8
             },
             {
-                label: 'ワークシート共有',
+                label: 'スクリーンショット共有',
                 duration: 3
             },
             {
@@ -133,7 +137,7 @@ const groups: Group[] = [
         items: [
             {
                 label: '他己評価',
-                duration: 5
+                duration: 6
             },
             {
                 label: 'まとめ',
